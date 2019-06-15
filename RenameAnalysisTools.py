@@ -4,8 +4,8 @@ import hashlib
 from shutil import copy2
 
 #constants
-cwd = os.getcwd()
-tool_directory = ''
+ 
+tool_directory = '' #<-here you have to hardcode your analysis-tools-directory.
 
 
 #funktionen
