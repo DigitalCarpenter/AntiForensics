@@ -5,7 +5,7 @@ from shutil import copy2
 
 #constants
 cwd = os.getcwd()
-tool_directory = 'C:/Users/analysis/Documents/M114_LiveAnalyse/Tools'
+tool_directory = ''
 
 
 #funktionen
